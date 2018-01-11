@@ -1,0 +1,19 @@
+{
+  "name": "XChange",
+  "description": "XChange module",
+  "homepage": "https://xchange.ec",
+  "license": "AFL - Academic Free License (AFL 3.0)",
+  "authors": [
+    {
+      "name": "Teknologies INC",
+      "email": "info@xchange.ec"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}

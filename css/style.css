@@ -1,0 +1,23 @@
+.PayBox button {
+    background: url(../img/pagar-hover.png) #2499cb no-repeat center center;
+    color: #fff;
+    height: 60px;
+    width: 260px;
+    border: solid 1px #00000000;
+    font-size: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-size: contain;
+}
+
+.PayBox button:hover {
+	background: url(../img/pagar.png) #eee no-repeat center center;
+    color: #fff;
+    height: 60px;
+    width: 260px;
+    border: solid 1px #04a3c3;
+    font-size: 15px;
+    border-radius: 30px;
+    cursor: pointer;
+    background-size: contain;
+}
